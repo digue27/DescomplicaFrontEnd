@@ -1,0 +1,18 @@
+body {
+    font-weight: 400;
+    font-family: Lato, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 2.5em;
+    color:#837197;
+    background-color: #33105a;
+
+}
+header {
+    background-color: #592f89;
+}
+ h1 {
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 15px;
+    color: white;
+ }
